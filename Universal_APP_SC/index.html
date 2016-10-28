@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/flat-ui.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/vue.min.js"></script>
+    <script src="js/vue-resource.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/flat-ui.min"></script>
+    <script src="js/config/config.js"></script>
+    <script src="js/components.js"></script>
+
+
+    <title> Aplication To Mobile </title>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div id="appcontrol" class="container-fluid">
+            
+            <view-app v-bind:is="actualview" v-bind:idprod="idprod">
+
+            </view-app>
+
+            
+
+        </div>
+    </div>
+
+    <script src="js/render.js"></script>
+    <!--<script src="js/application.js"></script>-->
+
+</body>
+
+</html>

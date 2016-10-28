@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOTVAIOLOCSOLO-</Machine>
+    <WindowsUser>gabriel</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5a9e1337-a1d9-4ed3-81b2-4632823a0792</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4B61B933B41E0F5E2101AB6A723C32EE056FEFD3EABE4FCF73170C86EF9AB566</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5a9e1337-a1d9-4ed3-81b2-4632823a0792_1.0.0.0_neutral__a6mr04ssj2jvp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5a9e1337-a1d9-4ed3-81b2-4632823a0792_a6mr04ssj2jvp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5a9e1337-a1d9-4ed3-81b2-4632823a0792</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=gabriel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-28T19:47:28.366</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+      <Modified>2016-09-09T02:39:38.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\flat-ui.css">
+      <PackagePath>css\flat-ui.css</PackagePath>
+      <Modified>2016-10-01T19:15:48.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+      <Modified>2016-10-28T19:26:40.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+      <Modified>2016-09-09T02:39:38.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\flat-ui.css.map">
+      <PackagePath>css\flat-ui.css.map</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>fonts\glyphicons-halflings-regular.eot</PackagePath>
+      <Modified>2016-08-23T14:39:02.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.eot">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.eot">
+      <PackagePath>fonts\lato\lato-black.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.eot">
+      <PackagePath>fonts\lato\lato-bold.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.eot">
+      <PackagePath>fonts\lato\lato-bolditalic.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.eot">
+      <PackagePath>fonts\lato\lato-italic.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.eot">
+      <PackagePath>fonts\lato\lato-light.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.eot">
+      <PackagePath>fonts\lato\lato-regular.eot</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2016-08-23T14:39:02.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.svg">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.svg">
+      <PackagePath>fonts\lato\lato-black.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.svg">
+      <PackagePath>fonts\lato\lato-bold.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.svg">
+      <PackagePath>fonts\lato\lato-bolditalic.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.svg">
+      <PackagePath>fonts\lato\lato-italic.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.svg">
+      <PackagePath>fonts\lato\lato-light.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.svg">
+      <PackagePath>fonts\lato\lato-regular.svg</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2016-08-23T14:39:02.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.ttf">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.ttf">
+      <PackagePath>fonts\lato\lato-black.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.ttf">
+      <PackagePath>fonts\lato\lato-bold.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.ttf">
+      <PackagePath>fonts\lato\lato-bolditalic.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.ttf">
+      <PackagePath>fonts\lato\lato-italic.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.ttf">
+      <PackagePath>fonts\lato\lato-light.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.ttf">
+      <PackagePath>fonts\lato\lato-regular.ttf</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff</PackagePath>
+      <Modified>2016-08-23T14:39:02.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.woff">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.woff">
+      <PackagePath>fonts\lato\lato-black.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.woff">
+      <PackagePath>fonts\lato\lato-bold.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.woff">
+      <PackagePath>fonts\lato\lato-bolditalic.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.woff">
+      <PackagePath>fonts\lato\lato-italic.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.woff">
+      <PackagePath>fonts\lato\lato-light.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.woff">
+      <PackagePath>fonts\lato\lato-regular.woff</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff2</PackagePath>
+      <Modified>2016-08-23T14:39:02.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\selection.json">
+      <PackagePath>fonts\glyphicons\selection.json</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-10-28T20:36:20.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T22:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\application.js">
+      <PackagePath>js\application.js</PackagePath>
+      <Modified>2016-10-28T19:39:54.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+      <Modified>2016-10-28T19:50:21.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\components.js">
+      <PackagePath>js\components.js</PackagePath>
+      <Modified>2016-10-28T20:40:22.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\config\config.js">
+      <PackagePath>js\config\config.js</PackagePath>
+      <Modified>2016-10-28T18:10:37.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\flat-ui.min.js">
+      <PackagePath>js\flat-ui.min.js</PackagePath>
+      <Modified>2016-07-01T16:34:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+      <Modified>2016-10-28T19:46:10.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\render.js">
+      <PackagePath>js\render.js</PackagePath>
+      <Modified>2016-10-28T20:25:06.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\vue-resource.min.js">
+      <PackagePath>js\vue-resource.min.js</PackagePath>
+      <Modified>2016-10-25T15:59:26.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\vue.min.js">
+      <PackagePath>js\vue.min.js</PackagePath>
+      <Modified>2016-10-05T22:47:21.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-10-28T19:47:28.164</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOTVAIOLOCSOLO-</Machine>
+    <WindowsUser>gabriel</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5a9e1337-a1d9-4ed3-81b2-4632823a0792</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\flat-ui.css">
+      <PackagePath>css\flat-ui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\css\flat-ui.css.map">
+      <PackagePath>css\flat-ui.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>fonts\glyphicons-halflings-regular.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.eot">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.eot">
+      <PackagePath>fonts\lato\lato-black.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.eot">
+      <PackagePath>fonts\lato\lato-bold.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.eot">
+      <PackagePath>fonts\lato\lato-bolditalic.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.eot">
+      <PackagePath>fonts\lato\lato-italic.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.eot">
+      <PackagePath>fonts\lato\lato-light.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.eot">
+      <PackagePath>fonts\lato\lato-regular.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>fonts\glyphicons-halflings-regular.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.svg">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.svg">
+      <PackagePath>fonts\lato\lato-black.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.svg">
+      <PackagePath>fonts\lato\lato-bold.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.svg">
+      <PackagePath>fonts\lato\lato-bolditalic.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.svg">
+      <PackagePath>fonts\lato\lato-italic.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.svg">
+      <PackagePath>fonts\lato\lato-light.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.svg">
+      <PackagePath>fonts\lato\lato-regular.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>fonts\glyphicons-halflings-regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.ttf">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.ttf">
+      <PackagePath>fonts\lato\lato-black.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.ttf">
+      <PackagePath>fonts\lato\lato-bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.ttf">
+      <PackagePath>fonts\lato\lato-bolditalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.ttf">
+      <PackagePath>fonts\lato\lato-italic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.ttf">
+      <PackagePath>fonts\lato\lato-light.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.ttf">
+      <PackagePath>fonts\lato\lato-regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\flat-ui-icons-regular.woff">
+      <PackagePath>fonts\glyphicons\flat-ui-icons-regular.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-black.woff">
+      <PackagePath>fonts\lato\lato-black.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bold.woff">
+      <PackagePath>fonts\lato\lato-bold.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-bolditalic.woff">
+      <PackagePath>fonts\lato\lato-bolditalic.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-italic.woff">
+      <PackagePath>fonts\lato\lato-italic.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-light.woff">
+      <PackagePath>fonts\lato\lato-light.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\lato\lato-regular.woff">
+      <PackagePath>fonts\lato\lato-regular.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>fonts\glyphicons-halflings-regular.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\fonts\glyphicons\selection.json">
+      <PackagePath>fonts\glyphicons\selection.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\application.js">
+      <PackagePath>js\application.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\components.js">
+      <PackagePath>js\components.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\config\config.js">
+      <PackagePath>js\config\config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\flat-ui.min.js">
+      <PackagePath>js\flat-ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\render.js">
+      <PackagePath>js\render.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\vue-resource.min.js">
+      <PackagePath>js\vue-resource.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\js\vue.min.js">
+      <PackagePath>js\vue.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

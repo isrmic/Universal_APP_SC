@@ -1,0 +1,16 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\ReverseMap\resources.pri
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\AppxManifest.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bin\Debug\Universal_APP_SC.build.appxrecipe
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\ResourceHandlingTask.state
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\priconfig.xml
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\priconfig.xml.intermediate
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\layout.resfiles
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\layout.resfiles.intermediate
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\resources.resfiles
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\resources.resfiles.intermediate
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\pri.resfiles
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\pri.resfiles.intermediate
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\qualifiers.txt
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\qualifiers.txt.intermediate
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\gabriel\documents\visual studio 2015\Projects\Universal_APP_SC\Universal_APP_SC\bld\Debug\ProjectArchitectures.txt
